@@ -13,8 +13,15 @@ Este projeto consiste em um jogo simples de adivinhação de números desenvolvi
    - Clique no botão "Enviar" para verificar se o número que você digitou é igual ao número secreto escolhido pelo computador.
    - O jogo informará se o número que você digitou é muito alto, muito baixo ou se você acertou o número secreto.
 
-3. **Exemplo de Interface:**
-   ![Exemplo de Interface](./img/interface.png)
+3. **Exemplo do Campo de Entrada:**
+   ![Captura de tela campo de entrada](jogo-Js/img/img_capture/Capturadetelacampodeentrada.png)
+   
+   **Exemplo do Campo de Entrada com o Resultado:**
+   ![Captura campo de entrada resultado](jogo-Js/img/img_capture/Capturacampodeentradaresultado.png)
+   
+   **Exemplo de Interface:**
+   ![Interface](Jogo-JS/img/img_capture/CapturadetelaGameJs.png)
+
 
 ## Recursos
 
