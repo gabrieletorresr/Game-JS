@@ -20,7 +20,7 @@ Este projeto consiste em um jogo simples de adivinhação de números desenvolvi
    ![Campo de entrada resultado](Jogo-JS/img/img_capture/Capturacampodeentradaresultado.png)
    
    **Exemplo de Interface:**
-   ![Interface](Jogo-JS/img/img_capture/CapturadetelaGameJs.png)
+   ![Interface](img/img_capture/interfaceGameJs.png)
 
 
 ## Recursos
