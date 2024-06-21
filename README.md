@@ -17,10 +17,10 @@ Este projeto consiste em um jogo simples de adivinhação de números desenvolvi
    ![Campo de entrada](Jogo-JS/img/img_capture/Capturadetelacampodeentrada.png)
    
    **Exemplo do Campo de Entrada com o Resultado:**
-   ![Campo de entrada resultado](Jogo-JS/img/img_capture/Capturacampodeentradaresultado.png)
+   ![Campo de entrada resultado](img/img_capture/Capturacampodeentradaresultado.png)
    
    **Exemplo de Interface:**
-   ![Interface](img/img_capture/interfaceGameJs.png)
+   ![Interface](img/img_capture/interface_GameJs.png)
 
 
 ## Recursos
