@@ -41,7 +41,7 @@ Contribuições são bem-vindas! Se você quiser melhorar este jogo, sinta-se à
 
 ## Autor
 
-- Desenvolvido por [Seu Nome](https://github.com/seu-usuario).
+- Desenvolvido por [Gabriele]([https://github.com/gabrieletorresr).
 
 ## Licença
 
