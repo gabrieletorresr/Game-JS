@@ -14,10 +14,10 @@ Este projeto consiste em um jogo simples de adivinhação de números desenvolvi
    - O jogo informará se o número que você digitou é muito alto, muito baixo ou se você acertou o número secreto.
 
 3. **Exemplo do Campo de Entrada:**
-   ![Campo de entrada](Jogo-JS/img/img_capture/Capturadetelacampodeentrada.png)
+   ![Campo de entrada](img/img_capture/campo_de_entrada.png)
    
    **Exemplo do Campo de Entrada com o Resultado:**
-   ![Campo de entrada resultado](img/img_capture/Capturacampodeentradaresultado.png)
+   ![Campo de entrada resultado](img/img_capture/campo_de_entrada_resultado.png)
    
    **Exemplo de Interface:**
    ![Interface](img/img_capture/interface_GameJs.png)
